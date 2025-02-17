@@ -1,7 +1,3 @@
-Here's the translation and adaptation of your instruction into a `README.md` format for GitHub:
-
----
-
 # Whonix on Mac (Apple Silicon) Installation Guide
 
 This guide will walk you through installing Whonix on a Mac with Apple Silicon (M1/M2) using an automated script.
